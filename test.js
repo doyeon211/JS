@@ -107,9 +107,3 @@
 // 	console.log("d")
 // }
 // else {console.log("입력이 잘못되었습니다.")}
-
-
-// for (var n=0; n<10; n++){
-// 	console.log('김도연')
-// 	console.log(n+1)
-// }
